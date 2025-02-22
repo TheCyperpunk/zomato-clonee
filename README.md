@@ -2,7 +2,8 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-live preview :tempo-deployment-fb4520db-5fc9-4bd8-84c5-5e979860969-n53r9wj3x.vercel.app
+# Live preview
+ tempo-deployment-fb4520db-5fc9-4bd8-84c5-5e979860969-n53r9wj3x.vercel.app
 
 Currently, two official plugins are available:
 
